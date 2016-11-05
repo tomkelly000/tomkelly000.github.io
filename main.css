@@ -1,0 +1,73 @@
+body {
+  background-color: #efefef;
+  color: #555;
+}
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+}
+
+.nav li {
+  display: inline;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+
+.info {
+  padding: 20px;
+}
+
+.info h3 {
+  font-family: 'PT Sans', 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.footer {
+  margin-top: 10px;
+}
+.footer .container {
+  padding: 20px;
+  border-top: 1px solid #dbdbdb;
+  display: table;
+}
+
+.footer #outer {
+  display: table-row;
+  width: 100%;
+}
+
+.footer #inner {
+  display: table-cell;
+  float: right;
+  padding-right: 10px;
+}
+
+.footer ul {
+  list-style: none;
+  text-align: right;
+  margin-bottom: 0px;
+}
+
+.footer a {
+  color: #333;
+  text-decoration: underline;
+}
+
+.footer li {
+  margin-top: 10px;
+}
+
+#logo {
+  display: table-cell;
+  float: right;
+  height: auto; /* width is set to be height of #inner so they always align */
+}
