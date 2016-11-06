@@ -14,22 +14,9 @@ body {
 }
 
 .navbar {
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
-
-.info {
-  padding: 20px;
-}
-
-.info h3 {
-  font-family: 'PT Sans', 'Shift', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
 
 .footer {
   border-top: 1px solid #dbdbdb;
