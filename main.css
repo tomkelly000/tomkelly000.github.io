@@ -49,6 +49,13 @@ body {
   margin-top: 10px;
 }
 
+.email {
+  float: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 2px;
+}
+
 #logo {
   display: table-cell;
   float: right;
